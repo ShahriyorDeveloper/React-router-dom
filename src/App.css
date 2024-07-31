@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+a.active{
+    background: #3d3d45;
+    border-left-color: grey;
+    border-left-width: 2px;
+    border-left-style: solid;
+} */
